@@ -1,6 +1,6 @@
 const data = window.CHEN_READING_APP_DATA;
-const storageKey = "chen-reading-flashcards-progress-v1";
-const revealKey = "chen-reading-flashcards-reveals-v1";
+const storageKey = "korean-practice-chen-reading-1-progress-v1";
+const revealKey = "korean-practice-chen-reading-1-reveals-v1";
 
 const state = {
   view: "topics",

@@ -36,8 +36,8 @@ The shipped status in `data/app_data.js` is the first-load baseline. After a
 student changes any word status, progress is saved in that student's own
 browser through `localStorage` under:
 
-- `chen-reading-flashcards-progress-v1`
-- `chen-reading-flashcards-reveals-v1`
+- `korean-practice-chen-reading-1-progress-v1`
+- `korean-practice-chen-reading-1-reveals-v1`
 
 Future GitHub updates should keep the same URL, storage keys, and card IDs
 unless a reset or migration is intentional.
